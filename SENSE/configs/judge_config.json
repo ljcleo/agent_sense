@@ -1,0 +1,26 @@
+[
+    {
+        "judge_model":"xxxx",
+        "judge_base_url":"xxxx",
+        "judge_api_key":"1234",
+        "judge_api_type":"openai",
+        "judge_temperature":0,
+        "judge_max_tokens":128
+    },
+    {
+        "judge_model":"xxxx",
+        "judge_base_url":"xxxx",
+        "judge_api_key":"1234",
+        "judge_api_type":"openai",
+        "judge_temperature":0,
+        "judge_max_tokens":128
+    },
+    {
+        "judge_model":"xxxx",
+        "judge_base_url":"xxxx",
+        "judge_api_key":"1234",
+        "judge_api_type":"openai",
+        "judge_temperature":0,
+        "judge_max_tokens":128
+    }
+]

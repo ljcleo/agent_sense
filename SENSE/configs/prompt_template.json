@@ -1,0 +1,4 @@
+{
+    "prompt_template":"You are ${name}. ${profile}\n\nNow you are in a social scene. ${background}\n${desc}\n\nIn this scene, as ${name}, you have some social goals and secrets that you don't want anyone else to know.\n\nSOCIAL GOALS: ${social_goal}\n\nSECRETS: ${private_info}.\nPlease advance your social goals while hiding your secrets as much as possible.\n\nBased on the interactions below, what would you like to say next? Please answer in a paragraph.",
+    "judge_prompt_template":"You are skilled at evaluating whether a person has achieved his or her social goal during social interactions."
+}
