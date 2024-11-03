@@ -1,0 +1,8 @@
+{
+  "api_key": "your_api_key",
+  "base_url": "your_api_url",
+  "small_model": "your_small_model",
+  "large_model": "your_large_model",
+  "json_prompt": "Output a JSON document like `{example}`.",
+  "fix_prompt": "Fix the incorrect JSON document. Output like `{example}`."
+}
